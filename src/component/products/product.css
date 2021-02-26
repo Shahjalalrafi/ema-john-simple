@@ -14,3 +14,10 @@
 .productImg {
     margin-right: 30px;
 }
+
+.btn {
+    background: goldenrod;
+    width: 200px;
+    padding: 5px;
+    cursor: pointer;
+}
